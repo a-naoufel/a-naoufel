@@ -4,7 +4,7 @@
 
 - 🔭 I’m starting very cool and ambitious project [smart-autofill-bot](https://github.com/a-naoufel/smart-autofill-bot)
 
-- 🌱 I’m currently learning **VM environnement(VPN,SHH...)**
+- 🌱 I’m currently learning **VM environnement(VPN,SSH...)**
 
 - 👯 I’m working on **A VOIP projet**
 
