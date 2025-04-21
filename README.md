@@ -16,7 +16,7 @@
 
   
   <hr />
-x###📫 How to reach me 
+###📫 How to reach me 
 </p>
 
 <a href="https://www.linkedin.com/in/naoufel-azizi/">
