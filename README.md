@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naoufel</h1>
 <h3 align="center">I'm a Computer Science student passionate about AI and Data Science</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-naoufel" alt="a-naoufel" /></a> </p>
 
 - 🔭 I’m starting very cool and ambitious project [smart-autofill-bot](https://github.com/a-naoufel/smart-autofill-bot)
 
@@ -15,10 +14,13 @@
 
 - 💬 Ask me about **Machine learning,bash scripting ,react...**
 
-- 📫 How to reach me **azizi.naoufel@outlook.com**
+- 📫 How to reach me ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+- 📧 Email: azizi.naoufel@outlook.com</p>
+<p align="left">
+- 🔗 [LinkedIn](https://www.linkedin.com/in/naoufel-azizi/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
