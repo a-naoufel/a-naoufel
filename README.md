@@ -14,9 +14,10 @@
 
 - 💬 Ask me about **Machine learning,bash scripting ,react...**
 
-- 📫 How to reach me ****
+  
   <hr />
 
+- 📫 How to reach me ****
 </p>
 
 <a href="https://www.linkedin.com/in/naoufel-azizi/">
