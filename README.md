@@ -17,20 +17,13 @@
 - 📫 How to reach me ****
   <hr />
 
-<a href="https://www.linkedin.com/in/naoufel-azizi/">
-  <img align="left" width="36px" height="36px" src="https://user-images.githubusercontent.com/77198295/166142052-515d2705-893f-4bfa-8f1d-1a49882b7193.gif"  />
-</a>
-<a href="azizi.naoufel@outlook.com">
-  <img align="left" width="36px" height="36px" src="https://user-images.githubusercontent.com/77198295/166142174-5f115e35-5c81-4ad2-b4fa-89437f95dd73.gif" />
-</a>
-<br/>
 </p>
 
 <a href="https://www.linkedin.com/in/naoufel-azizi/">
   <img align="left" width="36px" height="36px" src="https://user-images.githubusercontent.com/77198295/166142052-515d2705-893f-4bfa-8f1d-1a49882b7193.gif"  />
-
 </a>
-<a href="azizi.naoufel@outlook.com">
+
+<a href="mailto:azizi.naoufel@outlook.com">
   <img align="left" width="36px" height="36px" src="https://user-images.githubusercontent.com/77198295/166142174-5f115e35-5c81-4ad2-b4fa-89437f95dd73.gif" />
 </a>
 <br/>
