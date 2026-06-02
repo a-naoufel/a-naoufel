@@ -79,18 +79,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=a-naoufel&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 📌 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [🤖 smart-autofill-bot](https://github.com/a-naoufel/smart-autofill-bot) | AI-powered intelligent form-filling automation | Python |
-| [📈 ML House Price Predictor](https://github.com/a-naoufel/machine-learning-projet) | Predicts property prices from city, surface & energy rating | Python · scikit-learn |
-| [🛒 Store App](https://github.com/a-naoufel/store.app) | E-commerce web application | JavaScript |
-| [🏠 Home-Tech](https://github.com/a-naoufel/Home-Tech) | Smart home tech project (2nd year CS) | HTML/CSS |
-
----
 
 <p align="center">
   <i>✨ Feel free to explore my repos — and drop a ⭐ if something catches your eye!</i>
