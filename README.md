@@ -68,17 +68,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a-naoufel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-naoufel&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=a-naoufel&theme=tokyonight&hide_border=true" />
-</p>
-
 
 <p align="center">
   <i>✨ Feel free to explore my repos — and drop a ⭐ if something catches your eye!</i>
