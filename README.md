@@ -16,7 +16,6 @@
 ## 🚀 About Me
 
 - 🎓 **M1 MIND** (Machine Intelligence & NLP Data) — **Sorbonne Université**, Paris
-- 💼 Former **Telecom Dev Intern** @ [Diese Telecom](https://www.diese.fr) · Clamart (Apr–Jul 2025)
 - 📱 **Freelance Mobile Developer** (Aug–Dec 2025) — Flutter / React Native
 - 🌱 Exploring **networking & systems** — VPN (OpenVPN/pfSense), SSH, Linux server admin
 - 💬 Ask me about **Machine Learning · NLP · Python · React · Bash scripting**
@@ -69,5 +68,5 @@
 
 
 <p align="center">
-  <i>✨ Feel free to explore my repos — and drop a ⭐ if something catches your eye!</i>
+  <i>✨ Feel free to explore my repos and my site https://naoufelazizi.netlify.app/ — and drop a ⭐ if something catches your eye!</i>
 </p>
