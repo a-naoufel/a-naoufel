@@ -8,7 +8,7 @@
   <a href="mailto:azizi.naoufel2004@gmail.com">
     <img src="https://img.shields.io/badge/Email-azizi.naoufel2004%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=a-naoufel&style=flat-square&color=6366f1&label=Profile+Views" />
+  <img src="https:// Naoufel Azizi.me?username=a-naoufel&style=flat-square&color=6366f1&label=Profile+Views" />
 </p>
 
 ---
