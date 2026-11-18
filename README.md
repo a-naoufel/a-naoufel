@@ -1,72 +1,36 @@
-<h1 align="center">Hi 👋, I'm Naoufel Azizi</h1>
-<h3 align="center">M1 MIND @ Sorbonne Université &nbsp;·&nbsp; AI / NLP / Data Science &nbsp;·&nbsp; Paris 🇫🇷</h3>
+# Naoufel Azizi
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/naoufel-azizi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Naoufel%20Azizi-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:azizi.naoufel2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-azizi.naoufel2004%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https:// Naoufel Azizi.me?username=a-naoufel&style=flat-square&color=6366f1&label=Profile+Views" />
-</p>
+**M2 MIND · Machine Learning, AI & Data · Sorbonne Université · Paris**
 
----
+I study how machine-learning systems behave when the evaluation setting changes: a new imaging source, a different training condition, or an adversarial user.
 
-## 🚀 About Me
+At **LIP6 (CNRS / Sorbonne Université)**, I built a **93,156-image colonoscopy pool** and evaluated polyp classifiers with lesion-disjoint splits and leave-one-dataset-out testing. Mean balanced accuracy **above chance** fell from **+0.159 to +0.031 (−81%)** when the test source was held out. That result shapes my interest in generalisation and evaluation design.
 
-- 🎓 **M1 MIND** (Machine Intelligence & NLP Data) — **Sorbonne Université**, Paris
-- 📱 **Freelance Mobile Developer** (Aug–Dec 2025) — Flutter / React Native
-- 🌱 Exploring **networking & systems** — VPN (OpenVPN/pfSense), SSH, Linux server admin
-- 💬 Ask me about **Machine Learning · NLP · Python · React · Bash scripting**
-- 📍 Paris, France &nbsp;|&nbsp; 🌍 FR / EN (C2) / AR (native)
+**Looking for a six-month final-year ML research / applied-science internship starting March 2027.** Open to opportunities in France and abroad.
 
----
+[Portfolio](https://naoufelazizi.me) · [CV (PDF)](https://naoufelazizi.me/Naoufel_AZIZI_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/naoufel-azizi/) · [Email](mailto:azizi.naoufel2004@gmail.com)
 
-## 🛠️ Tech Stack
+## Selected work
 
-**Languages**
+| Project | Question and approach |
+| --- | --- |
+| [Polyp classification at LIP6](https://github.com/a-naoufel/polyp-classification-lip6) | Do classifiers generalise across colonoscopy sources? Dataset auditing, lesion-disjoint splits, three frozen vision backbones, and leave-one-dataset-out evaluation. |
+| [DDPG vs TD3: overestimation bias](https://github.com/a-naoufel/lunarlander-overestimation) | Does reducing critic overestimation improve control? LunarLanderContinuous, LayerNorm ablations, Monte Carlo returns, 10 seeds per condition, and bootstrap confidence intervals. |
+| [Knowledge-graph extraction with LLMs](https://github.com/a-naoufel/Graph-Rag-Constructor-With-Llms) | Entity and relation extraction from historical text with Gemma 3 27B; quantised LLM serving with vLLM on a university A100 cluster. |
+| [Sentiment classification benchmark](https://github.com/a-naoufel/NLP-Sentiment-Classification) | Six approaches, from TF-IDF to DeBERTa, using the same training and test data. SetFit reached **91.3% accuracy**; the study compares accuracy, complexity, and data efficiency. |
+| [BirdCLEF+ 2026](https://github.com/a-naoufel/birdclef-2026) | Audio species classification with LightGBM and Random Forest baselines. |
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+## Current interests
 
-**AI / ML / NLP**
+- **Robust ML evaluation:** distribution shift, leakage, source-aware reporting, and reproducible experiments.
+- **LLMs and systems:** information extraction, quantised inference, vLLM, and SLURM / HPC.
+- **Agent evaluation:** an ongoing two-person course case study of τ²-bench, focusing on adversarial users. No results to report yet.
+- **Tools for agents:** a personal workflow with Python CLIs, a stdio MCP server, and source-traced drafting with human approval.
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+## Tools I use
 
-**Mobile & Web**
+**ML & evaluation:** Python, PyTorch, scikit-learn, NumPy, Pandas, OpenCV, Hugging Face Transformers, SetFit.  
+**Systems:** Linux, Git, Docker, Bash, SLURM, vLLM, LaTeX.  
+**Software:** Flutter, React Native, PHP / CakePHP, REST APIs; previous internship at Diese Telecom and freelance mobile development.
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-**Databases & DevOps**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-
----
-
-
-<p align="center">
-  <i>✨ Feel free to explore my repos and my site https://naoufelazizi.netlify.app/ — and drop a ⭐ if something catches your eye!</i>
-</p>
+French and English (C2) · Arabic (native).
